@@ -29,10 +29,10 @@ I'm a self-taught passionate FrontEnd Engineer from Chattogram, Bangladesh ðŸ‡§ð
   <a href="mailto:humayunkabir6267@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/humayun-kabir-b14a65160">
+  <a href="https://www.linkedin.com/in/humayunkabir13/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://my-portfolio-brown-eta-20.vercel.app/">
+  <a href="https://humayun-vert.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
