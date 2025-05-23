@@ -98,9 +98,10 @@ I specialize in building modern web applications using React, Next.js, and TypeS
 
 | Project        | Description                          | Tech Stack                     | Links       |
 |----------------|--------------------------------------|--------------------------------|-------------|
-| **🔁 SwapNest** | MERN stack marketplace               | NextJs, MongoDB, Mongoose, Expressjs | [Code](https://github.com/Humayun1318/SwapNest-server) • [Demo](https://swap-nest-server-seven.vercel.app/) |
-| **📱 Gadget Heaven** | E-commerce for tech gadgets       | React, Tailwind  | [Code](https://github.com/Humayun1318/B10-A8-gadget-heaven-reset9) • [Demo](https://gadgetheaven-humayun1318.netlify.app/) |
-| **🏍️ Bike Store** | Motorcycle inventory system       | React, Express, JWT | [Code](https://github.com/Humayun1318/bike-store) • [Demo](#) |
+| **🔁 Trendora** |A modern web marketplace for second-hand goods. MERN stack E-commerce | TypeScript, NextJs, Tailwind CSS, ShadCN UI, MongoDB, Mongoose, Expressjs, Node.js,Cors,Dotenv, JWT | [Code](https://github.com/Humayun1318/trendora) • [Demo](https://trendora-black.vercel.app/) |
+| **🔁 Papyrus** | It's a full-featured e-commerce platform for stationery products. Using MERN stack tech.| React, Redux, Tailwind, Shadcn UI, TypeScript, Node.js, Express.js, MongoDB with Mongoose  | [Code](https://github.com/Humayun1318/papyrus-stationery-e-commerce.git) • [Demo](https://papyrus-client.vercel.app/) |
+| **FutureEdge** | FuturEdge is a career counseling platform, providing personalized career guidance, resources, and expert insights to help users make informed career decisions.| React 19, React Router 7, Tailwind CSS, Firebase Authentication, Firebase Hosting, DaisyUI, Swiper.js, AOS, ESLint, Prettier| [Code](https://github.com/Humayun1318/FuturEdge) • [Demo](https://futuredge-784af.web.app/) |
+| **GadgetHeaven** | A gadget shopping site with a structured navigation bar, product categories, and detailed product pages. Features include a shopping cart, wishlist, product filtering, and sorting by price.| Headless UI, React Fast Marquee, React, Tailwind CSS, DaisyUI, Context API, React Router,Recharts, React Icons, React Helmet Async, React Toastify, Vite| [Code](https://github.com/Humayun1318/gadget-heaven) • [Demo](https://gadgetheaven-humayun1318.netlify.app/) |
 
 ---
 
