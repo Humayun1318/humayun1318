@@ -5,7 +5,7 @@
 
 <!-- ========== PROFILE SECTION ========== -->
 <p align = "center">
-I'm a self-taught passionate FrontEnd Engineer from Chattogram, Bangladesh 🇧🇩
+I'm a self-taught passionate Web Developer from Chattogram, Bangladesh 🇧🇩
 </p>
 
 <!-- ========== ABOUT SECTION ========== -->
