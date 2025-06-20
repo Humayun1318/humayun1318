@@ -1,6 +1,6 @@
 <!-- ========== HEADER/BANNER ========== -->
 <div align="center">
-  <img src="https://i.ibb.co.com/fz7bz2PH/cover-Image.png" alt="Humayun Kabir - Frontend Engineer" width="100%"/>
+  <img src="https://i.ibb.co/FbG565cG/githubbanner2.png" alt="Humayun Kabir - Frontend Engineer" width="100%"/>
 </div>
 
 <!-- ========== PROFILE SECTION ========== -->
