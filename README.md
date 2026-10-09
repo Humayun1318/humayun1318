@@ -1,128 +1,135 @@
-<!-- ========== HEADER/BANNER ========== -->
-<div align="center">
-  <img src="https://i.ibb.co/FbG565cG/githubbanner2.png" alt="Humayun Kabir - Web Developer" width="100%"/>
-</div>
-
-<!-- ========== PROFILE SECTION ========== -->
-<p align = "center">
-I'm a self-taught passionate Web Developer from Chattogram, Bangladesh 🇧🇩
-</p>
-
-<!-- ========== ABOUT SECTION ========== -->
-## About Me
-
-- 🚀 Hi, I'm Humayun Kabir
-- 🎓 B.Sc. in Computer Science & Engineering (East Delta University, 2024)
-- 📈 Former Deputy Project Manager at Financial Improvement Organization (FIO)
-- 💻 Frontend Engineer | Full-Stack Developer (Learning) | Financial Tech Specialist
-- 🔥 Passionate about JavaScript,React, Next.js, and TypeScript also building financial technology solutions
-- 🌱 Currently mastering full-stack development with Node.js and MongoDB,   
-- 🎨 UI enthusiast working with Tailwind, shadcn, and Aceternity UI  
-- 📫 Reach me at humayunkabir6267@gmail.com  
-
----
-
-<!-- ========== CONNECT SECTION ========== -->
-### Connect with me:
-
-<p align="left">
-  <a href="mailto:humayunkabir6267@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/humayunkabir13/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://humayun-vert.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
-
----
-
-<!-- ========== WORK SECTION ========== -->
-## 💼 What I Do
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
+  <img alt="Humayun Kabir — Full Stack Software Engineer" src="./assets/header-dark.svg" width="100%">
+</picture>
 
 <p align="center">
-I specialize in building modern web applications using React, Next.js, and TypeScript. Currently working across the full stack with MongoDB, Express, and Node.js. Passionate about state management (Redux), responsive design with Tailwind CSS, and creating accessible, performant user interfaces. Experienced with various UI libraries including shadcn, Aceternity UI, and daisyUI.
+  <a href="https://humayun1.vercel.app"><img src="https://img.shields.io/badge/Portfolio-humayun1.vercel.app-111?style=flat-square" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/humayunkabir13/"><img src="https://img.shields.io/badge/LinkedIn-humayunkabir13-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:humayunkabir6267@gmail.com"><img src="https://img.shields.io/badge/Email-humayunkabir6267%40gmail.com-c2410c?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://humayun1.vercel.app/cv/CVofHK.pdf"><img src="https://img.shields.io/badge/Resume-PDF-444?style=flat-square" alt="Resume"></a>
 </p>
 
----
-<!-- ========== TECH STACK ========== -->
-## 🛠️ Technologies & Tools
+I build full-stack web apps end to end: **React / Next.js** on the front, **Node.js + Express + MongoDB** on the back, and the parts in between that have to be right, like auth and roles, payments, caching, background jobs and data integrity.
 
-### Frontend
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router"/>
-  <img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" alt="React Hook Form"/>
-</p>
+I'm currently **open to full-stack or backend roles**.
 
-### UI Libraries & Frameworks
-<p align="left">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/Acertanity-000000?style=for-the-badge&logo=react&logoColor=white" alt="Aceternity UI"/>
-  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=ui&logoColor=white" alt="shadcn/ui"/>
-  <img src="https://img.shields.io/badge/daisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" alt="daisyUI"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-</p>
-
-### Backend & Databases
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongodb&logoColor=white" alt="Mongoose"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
-</p>
-
-### Tools & Platforms
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-</p>
+| | |
+|---|---|
+| **Focus** | API design · React apps · Auth & RBAC · Payments · Caching · Scheduled jobs |
+| **Production** | RentYard, Inc. (US, remote) · 150+ endpoints · 30+ Figma screens · 2 live apps |
+| **Now** | Building a client finance system · learning PostgreSQL + Prisma |
+| **Education** | B.Sc. in CSE, East Delta University (2024) |
+| **Based in** | Bangladesh · GMT+6 · remote-ready |
 
 ---
 
-<!-- ========== PINNED PROJECTS ========== -->
-## 🏆 Featured Projects
+## Experience
 
+**Jr. Backend Developer** · RentYard, Inc. (Texas, US · Remote) · `Oct 2025 – Feb 2026`
+- Built and maintained **150+ REST endpoints** for a production property rental platform.
+- Designed one standard API response shape, which cut frontend integration time by **~20%**.
+- Added Redis caching and `node-cron` background jobs, improving response time by **~10%** and removing manual recurring work.
+- Agreed API contracts with frontend engineers early in each sprint, so integration issues dropped.
 
-| Project        | Description                          | Tech Stack                     | Links       |
-|----------------|--------------------------------------|--------------------------------|-------------|
-| **🔁 Trendora** |A modern web marketplace for second-hand goods. MERN stack E-commerce | TypeScript, NextJs, Tailwind CSS, ShadCN UI, MongoDB, Mongoose, Expressjs, Node.js,Cors,Dotenv, JWT | [Code](https://github.com/Humayun1318/trendora) • [Demo](https://trendora-black.vercel.app/) |
-| **🔁 Papyrus** | It's a full-featured e-commerce platform for stationery products. Using MERN stack tech.| React, Redux, Tailwind, Shadcn UI, TypeScript, Node.js, Express.js, MongoDB with Mongoose  | [Code](https://github.com/Humayun1318/papyrus-stationery-e-commerce.git) • [Demo](https://papyrus-client.vercel.app/) |
-| **FutureEdge** | FuturEdge is a career counseling platform, providing personalized career guidance, resources, and expert insights to help users make informed career decisions.| React 19, React Router 7, Tailwind CSS, Firebase Authentication, Firebase Hosting, DaisyUI, Swiper.js, AOS, ESLint, Prettier| [Code](https://github.com/Humayun1318/FuturEdge) • [Demo](https://futuredge-784af.web.app/) |
-| **GadgetHeaven** | A gadget shopping site with a structured navigation bar, product categories, and detailed product pages. Features include a shopping cart, wishlist, product filtering, and sorting by price.| Headless UI, React Fast Marquee, React, Tailwind CSS, DaisyUI, Context API, React Router,Recharts, React Icons, React Helmet Async, React Toastify, Vite| [Code](https://github.com/Humayun1318/gadget-heaven) • [Demo](https://gadgetheaven-humayun1318.netlify.app/) |
+**Front-End Intern · Next.js / React** · RentYard, Inc. (Remote) · `Jul 2025 – Sep 2025`
+- Shipped features on **2 live apps**, [rentyard.com](https://rentyard.com/) and [influencercave.com](https://influencercave.com/).
+- Turned **30+ Figma screens** into responsive Next.js + TypeScript components.
+- Wired **20+ API endpoints** with Axios + TanStack Query, cutting repeat network calls by **5–10%**.
+- Finished with a Certificate of Completion and a Letter of Recommendation, then moved to the backend team.
+
+---
+
+## Featured work
+
+| Project | What it is | The hard part | Links |
+|---|---|---|---|
+| **SomitiKhata** · client, in progress | Finance and ledger system for a cooperative of ~400–500 members. Deposits, savings, loans, land shares, yearly profit. | Real money rules in code: yearly profit split by net saving with a cap for low savers, loans up to 80% of savings, withdrawals up to 95%. Fiscal-year transaction numbers (`DEP-2025-26-000123`), MongoDB transactions on every multi-write, access + refresh tokens in httpOnly cookies, full Bangla + English. | Private (client) |
+| **ERP: Inventory & Sales** | Role-based inventory and sales system. **23+ APIs across 5 modules.** | Atomic MongoDB transactions with rollback when stock or price checks fail, so prices can't be tampered with. 3-tier RBAC on both client and server, with the UI changing by permission. Passport local + Google OAuth with JWT refresh-and-retry in Axios. | [Live](https://erp-ims-client.vercel.app) · [Client](https://github.com/Humayun1318/erp-ims-client) · [Server](https://github.com/Humayun1318/ERP-Inventory-Sales-Management-System) |
+| **Expense Tracker** | Personal finance platform. **25+ APIs across 5 modules, 11 dashboard pages.** | Daily `node-cron` processor for recurring transactions. It writes atomically and moves the schedule forward only after a successful write, so a failed run retries itself. Admin can trigger the job manually. | [Live](https://finance-tracking-client.vercel.app) · [Client](https://github.com/Humayun1318/web-development-bootcamp-may-2026/tree/main/Humayun1318/Frontend) · [Server](https://github.com/Humayun1318/web-development-bootcamp-may-2026/tree/main/Humayun1318/Backend) |
+| **QuickHire ERP** | Enterprise job marketplace ERP. Seekers, companies, team members, job categories, listings. | Self-referencing job category tree with depth validation. 7+ modules on one strict module pattern, with full architecture docs. | [Code](https://github.com/Humayun1318/QuickHire) · [Docs](https://humayun1318.github.io/QuickHire_ERP_Architect_Doc) |
+| **Trendora** · team project | Marketplace to buy, sell and swap second-hand goods. **15+ features.** | Next.js 15 client with a separate Express API, custom JWT auth and admin RBAC, multi-filter real-time search. | [Live](https://trendora-black.vercel.app/) · [Client](https://github.com/Humayun1318/trendora) · [Server](https://github.com/Humayun1318/SwapNest-server) |
+
+<details>
+<summary><b>More projects</b></summary>
+<br>
+
+| Project | What it is | Links |
+|---|---|---|
+| **Papyrus** | Stationery e-commerce with admin dashboard, RBAC and ShurjoPay payments. | [Live](https://papyrus-client.vercel.app/) · [Code](https://github.com/Humayun1318/papyrus-stationery-e-commerce) |
+| **FutureEdge** | Career counseling platform with Firebase email/Google auth and protected routes. | [Live](https://futuredge-784af.web.app/) · [Code](https://github.com/Humayun1318/FuturEdge) |
+
+</details>
 
 ---
 
-<!-- ========== GITHUB STATS ========== -->
-## 📈 GitHub Stats
+## How I structure a backend
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=humayun1318&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=humayun1318&layout=compact&theme=radical" alt="Top Languages"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=humayun1318&theme=radical" alt="GitHub Streak"/>
-</div>
+Every feature is a self-contained module with the same 7 files, so any developer can find anything in seconds. I wrote a small CLI that generates this skeleton from one command.
+
+```text
+src/modules/jobListing/
+├── jobListing.constants.ts    # enums, searchable fields
+├── jobListing.interface.ts    # TypeScript types
+├── jobListing.model.ts        # Mongoose schema + indexes
+├── jobListing.validation.ts   # Zod request schemas
+├── jobListing.service.ts      # business logic, DB access
+├── jobListing.controller.ts   # thin: request in, response out
+└── jobListing.route.ts        # routes + auth/role guards
+```
+
+Controllers stay small. Errors go to one global handler, so there is no `try/catch` repeated in every file:
+
+```ts
+const createJobListing = catchAsync(async (req, res) => {
+  const result = await JobListingServices.createJobListing(req.user, req.body);
+  sendResponse(res, { statusCode: 201, message: "Job listing created", data: result });
+});
+
+export const JobListingControllers = { createJobListing };
+```
 
 ---
-<!-- ========== ACTIVITY GRAPH ========== -->
-## 🚀 Recent Activity
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=humayun1318&theme=react-dark&hide_border=true&area=true" alt="Activity Graph"/>
-</div>
+## Stack
 
-<!-- ========== FOOTER ========== -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=humayun1318&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
-</div>
+<p>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,nodejs,express,mongodb,redis,postgres,prisma,firebase,vite,git,postman&perline=8" alt="Tech stack"></a>
+</p>
+
+| | |
+|---|---|
+| **Frontend** | React 19 · Next.js (App Router) · Redux Toolkit · RTK Query · TanStack Query · React Hook Form · Tailwind CSS · shadcn/ui |
+| **Backend** | Node.js · Express · MongoDB / Mongoose · Redis · Zod · node-cron · Cloudinary |
+| **Auth** | JWT (access + refresh) · Passport.js · Google OAuth 2.0 · RBAC |
+| **Payments** | Stripe · SSLCommerz · ShurjoPay |
+| **Learning** | PostgreSQL · Prisma |
+| **Also** | C · C++ · Firebase · Git · Postman · Vercel · Figma |
+
+---
+
+## Right now
+
+- Building **SomitiKhata** for a real client: Next.js frontend + Express/MongoDB backend.
+- Learning **PostgreSQL + Prisma** past the basics.
+- Building **QuickHire ERP** module by module.
+- Solving DSA problems daily on [LeetCode](https://leetcode.com/u/humayun_kabir1/) and [Codeforces](https://codeforces.com/profile/humayunkabir6267).
+
+---
+
+## Outside code
+
+Core member of **Atiyar Para Young Star Club** since 2016. It's a registered non-profit in Lohagara, Chattogram, where I help run community, education and sports events.
+
+---
+
+## Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Humayun1318&hide_border=true&background=00000000&ring=f0a742&fire=f0a742&currStreakLabel=f0a742&sideLabels=8b949e&dates=8b949e&currStreakNum=8b949e&sideNums=8b949e&stroke=8b949e40" alt="GitHub streak" height="165">
+</p>
+
+<p align="center">
+  <sub>Open to full-stack / backend roles · <a href="mailto:humayunkabir6267@gmail.com">humayunkabir6267@gmail.com</a></sub>
+</p>
