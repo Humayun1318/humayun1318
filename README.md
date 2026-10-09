@@ -8,7 +8,7 @@
   <a href="https://humayun1.vercel.app"><img src="https://img.shields.io/badge/Portfolio-humayun1.vercel.app-111?style=flat-square" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/humayunkabir13/"><img src="https://img.shields.io/badge/LinkedIn-humayunkabir13-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:humayunkabir6267@gmail.com"><img src="https://img.shields.io/badge/Email-humayunkabir6267%40gmail.com-c2410c?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://humayun1.vercel.app/cv/CVofHK.pdf"><img src="https://img.shields.io/badge/Resume-PDF-444?style=flat-square" alt="Resume"></a>
+  <a href="https://drive.google.com/file/d/18QIxm4-HBNO2sFg8v6C17-lK59GcWktX/view"><img src="https://img.shields.io/badge/Resume-PDF-444?style=flat-square" alt="Resume"></a>
 </p>
 
 I build full-stack web apps end to end: **React / Next.js** on the front, **Node.js + Express + MongoDB** on the back, and the parts in between that have to be right, like auth and roles, payments, caching, background jobs and data integrity.
